@@ -1,16 +1,18 @@
-### Hi there 👋
+### Bonjour tout le monde 👋
 
-<!--
-**coeragames/coeragames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Je suis Fondateur du PR11.
+- 🌱 Je travaille principalement sur CocoricoMC, Files by PR11, et img-anal
+- 🤝 J'aime jouer/travailler avec @DenoxTV et Winx038. On se connait IRL.'
+- 🖊 J'apprends actuellement le Python, le JS et le PHP
+- 💡 J'aime réaliser mes rêves/et mettre en place mes idées. Et je le fait... actuellement
 
-Here are some ideas to get you started:
+<h3>Rejoignez moi/Entrez en Contact!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: https://discord.gg/T247zrc
+Site Web: <i>bientôt...</i>
+
+Site Web PR11: https://pr11.fr
+Discord PR11: https://discord.gg/nSu4cZ6F8A
+
+Discord (MP ouverts): coeragames+2#0663
+Email: coera@pr11.fr
