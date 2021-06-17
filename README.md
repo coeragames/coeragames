@@ -3,7 +3,7 @@
 - 💼 Je suis Fondateur du PR11.
 - 🌱 Je travaille principalement sur CocoricoMC, Files by PR11, et img-anal
 - 🤝 J'aime jouer/travailler avec @DenoxTV et Winx038. On se connait IRL.'
-- 🖊 J'apprends actuellement le Python, le JS et le PHP (je commence à le maitriser)
+- 🖊 Je maitrise le HTML/CSS (j'utilise beaucoup le Framwork Bulma), le PHP, et commence à maitriser le Discord.JS, et le Bukkit.
 - 💡 J'aime réaliser mes rêves/et mettre en place mes idées. Et je le fait... actuellement
 
 <h3>Rejoignez moi/Entrez en Contact!</h3>
