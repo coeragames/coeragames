@@ -1,7 +1,7 @@
 ### Bonjour tout le monde 👋
 
 - 💼 Je suis Fondateur du PR11.
-- 🌱 Je travaille principalement sur CocoricoMC, Files by PR11, et img-anal
+- 🌱 Je travaille principalement sur CocoricoMC, Files by PR11, et Accounts PR11. Je travaille (pas beaucoup) sur quelques petits projets perso tels que img-anal (et bientôt d'autres)
 - 🤝 J'aime jouer/travailler avec @DenoxTV et Winx038. On se connait IRL.'
 - 🖊 Je maitrise le HTML/CSS (j'utilise beaucoup le Framwork Bulma), le PHP, et commence à maitriser le Discord.JS, et le Bukkit.
 - 💡 J'aime réaliser mes rêves/et mettre en place mes idées. Et je le fait... actuellement
