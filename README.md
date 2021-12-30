@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=coeragames&theme=tokyonight&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coeragames&layout=compact&theme=tokyonight">
  
-<h3>Rejoignez moi/Entrez en Contact!</h3>
+## Rejoignez moi/Entrez en Contact!
 
 Discord: https://discord.gg/T247zrc
 Site Web: <i>bientôt...</i>
