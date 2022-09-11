@@ -12,8 +12,6 @@
  
 ## Rejoignez moi/Entrez en Contact!
 
-<img src="https://discord.com/users/513763967236177952">
-
 Discord: https://discord.gg/T247zrc
 Site Web: <i>bientôt...</i>
 
