@@ -1,9 +1,9 @@
 ### Bonjour tout le monde 👋
 
-- 💼 Je suis Fondateur du PR11.
-- 🌱 Je travaille principalement sur CocoricoMC, Files by PR11, et Accounts PR11. Je travaille (pas beaucoup) sur quelques petits projets perso tels que img-anal (et bientôt d'autres)
+- 💼 Je suis Fondateur du PR11 et Co-Fondateur de SkillGlobe (la nouvelle personne en charge de ce plugin est Cagicac).
+- 🌱 Je bosse sur pas mal de petits projets sympas comme GetSupport (il y en a d'autres mais pas pour le moment public)
 - 🤝 J'aime jouer/travailler avec @DenoxTV et Winx038. On se connait IRL.'
-- 🖊 Je maitrise le HTML/CSS (j'utilise beaucoup le Framwork Bulma), le PHP, et commence à maitriser le Discord.JS, le Bukkit et Python.
+- 🖊 Je maitrise le HTML/CSS (j'utilise beaucoup le Framwork Bulma), l'API Bukkit (Java) et le PHP
 - 💡 J'aime réaliser mes rêves/et mettre en place mes idées. Et je le fait... actuellement
 
 ## Mes Stats Github
