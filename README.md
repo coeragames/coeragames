@@ -13,7 +13,7 @@
 ## Rejoignez moi/Entrez en Contact!
 
 Discord: https://discord.gg/T247zrc
-Site Web: <i>bientôt...</i>
+Mes autres réseaux: https://solo.to/coera
 
 Site Web PR11: https://pr11.fr
 Discord PR11: https://discord.gg/nSu4cZ6F8A
