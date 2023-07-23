@@ -1,6 +1,6 @@
 ### Bonjour tout le monde 👋
 
-- 💼 Je suis Fondateur du PR11 et Co-Fondateur de SkillGlobe (la nouvelle personne en charge de ce plugin est Cagicac).
+- 💼 Je suis Fondateur du PR11.
 - 🌱 Je bosse sur pas mal de petits projets sympas comme GetSupport (il y en a d'autres mais pas pour le moment public)
 - 🤝 J'aime jouer/travailler avec @DenoxTV et Winx038. On se connait IRL.'
 - 🖊 Je maitrise le HTML/CSS (j'utilise beaucoup le Framwork Bulma), l'API Bukkit (Java) et le PHP
